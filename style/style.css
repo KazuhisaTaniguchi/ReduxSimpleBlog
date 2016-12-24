@@ -1,0 +1,13 @@
+.text-xs-right{
+  text-align: right;
+}
+.pull-xs-right{
+  float: right;
+}
+.has-danger .text-help{
+  color: red;
+}
+
+form a{
+  margin-left: 5px;
+}
